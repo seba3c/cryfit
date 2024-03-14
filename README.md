@@ -1,1 +1,3 @@
 # cryfit
+
+## Setup
